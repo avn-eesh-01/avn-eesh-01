@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @avn-eesh-01
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin and its application in android development.
-- 💞️ I’m looking to collaborate on various web based applications
-- 🌱 I'm pursuing BCA
-- 📫 How to reach me - avneeshkumar18703@gmail.com
+- 👀 I am interested in Android Development
+- 🌱 Currently learning Kotlin and its application in android development.
+- 💞️ looking to collaborate on various web and android based applications
+- 🌱 Pursuing BCA
+- 📫 Reach me at - avneeshkumar18703@gmail.com
 
 <!---
 avn-eesh-01/avn-eesh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
