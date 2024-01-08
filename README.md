@@ -14,10 +14,10 @@ About me:
 
 <h1>Connect with me</h1>
 <p>
-  <a href="https://twitter.com/avneesh07_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-  <a href="mailto:avneeshkumar18703@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://dev.to/avneesh01"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/avneesh-kumar-a5905324b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://twitter.com/avneesh07_"><img src="https://skillicons.dev/icons?i=twitter"></a>&nbsp;&nbsp;
+  <a href="mailto:avneeshkumar18703@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;&nbsp;
+  <a href="https://dev.to/avneesh01"><img src="https://skillicons.dev/icons?i=devto"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/avneesh-kumar-a5905324b/"><img src="https://skillicons.dev/icons?i=linkedin">
 </p>
 <!---
 avn-eesh-01/avn-eesh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
