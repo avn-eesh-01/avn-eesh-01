@@ -35,4 +35,3 @@ You can click the Preview link to take a look at your changes.
 
 <h1>My Github stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=avn-eesh-01&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avn-eesh-01&layout=donut-vertical">
