@@ -12,6 +12,9 @@ About me:
 - 🌱 Currently learning Kotlin and its application in android development.
 - 🌱 Pursuing BCA.
 
+## 👀 Profile Views:
+[![](https://visitcount.itsvg.in/api?id=avn-eesh-01&icon=6&color=5)](https://visitcount.itsvg.in)
+
 <h1>Connect with me</h1>
 <p>
   <a href="https://twitter.com/avneesh07_"><img src="https://skillicons.dev/icons?i=twitter"></a>&nbsp;&nbsp;
