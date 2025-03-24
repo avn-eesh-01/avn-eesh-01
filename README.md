@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"> Welcome👋</h1>
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lato&size=25&pause=1000&color=87F738&center=true&vCenter=true&random=false&width=435&lines=I+am+an+App+Developer;I+am+a+Web+Developer;I+am+an+Open+Source+Enthusiast" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lato&size=25&pause=1000&color=87F738&center=true&vCenter=true&random=false&width=435&lines=I+am+an+App+Developer;I+am+a+Web+Developer;I+am+an+Open+Source+Enthusiast;I+am+a+Project+Manager;" alt="Typing SVG" /></a>
 </div>
 
 About me: 
@@ -15,9 +15,9 @@ About me:
 <h1>Connect with me</h1>
 <p>
   <a href="https://twitter.com/avneesh07_"><img src="https://skillicons.dev/icons?i=twitter"></a>&nbsp;&nbsp;
-  <a href="mailto:avneeshkumar18703@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;&nbsp;
+  <a href="mailto:kumar18avneesh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;&nbsp;
   <a href="https://dev.to/avneesh01"><img src="https://skillicons.dev/icons?i=devto"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/avneesh-kumar-a5905324b/"><img src="https://skillicons.dev/icons?i=linkedin">
+  <a href="https://www.linkedin.com/in/avnice/"><img src="https://skillicons.dev/icons?i=linkedin">
 </p>
 <!---
 avn-eesh-01/avn-eesh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
