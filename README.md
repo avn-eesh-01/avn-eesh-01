@@ -37,21 +37,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div class="container">
+<div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=avn-eesh-01&theme=tokyonight&token=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&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
     </div>
     <div>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=avn-eesh-01&token=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&theme=tokyonight&hide_border=false" alt="GitHub Streak">
     </div>
-
-    <style>
-        .container{
-            display:flex;
-            flex-direction:row;
-            justify-content:center;
-            align-items:center;
-        }
-    </style>    
 </div>
 
