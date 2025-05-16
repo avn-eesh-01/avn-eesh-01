@@ -38,9 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">GitHub Stats:</h3>
 
-<div>
-<img src="https://metrics.lecoq.io/avn-eesh-01?template=terminal&projects=1&sponsorships=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&projects=false&projects.limit=4&projects.descriptions=true&config.timezone=Asia%2FColombo"/>
-</div>
+
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=avn-eesh-01&theme=tokyonight&token=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&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
