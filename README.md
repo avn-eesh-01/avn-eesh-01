@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=avn-eesh-01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=avn-eesh-01&theme=dracula&token=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&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=avn-eesh-01&theme=dracula&hide_border=false" alt="GitHub Streak">
