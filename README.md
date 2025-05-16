@@ -34,9 +34,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h1>My Github stats</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=avn-eesh-01&token=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&show_icons=true&theme=tokyonight">
-
-<h3 align="center">GitHub Stats:</h3>
 
 
 
@@ -46,14 +43,3 @@ You can click the Preview link to take a look at your changes.
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=avn-eesh-01&token=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&theme=tokyonight&hide_border=false" alt="GitHub Streak">
 </div>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avn-eesh-01&token=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&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
-
-<h3>Profile Views:</h3>
-
-<p>
-    <a href="https://visitcount.itsvg.in/api?id=avn-eesh-01&token=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&label=Profile%20Views&color=6&icon=1&pretty=true">
-        <img src="https://visitcount.itsvg.in/api?id=avn-eesh-01&token=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&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
-    </a>
-</p>
