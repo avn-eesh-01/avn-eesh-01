@@ -35,3 +35,27 @@ You can click the Preview link to take a look at your changes.
 
 <h1>My Github stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=avn-eesh-01&show_icons=true&theme=tokyonight">
+
+<h3 align="center">GitHub Stats:</h3>
+
+<div align="center">
+<img src="https://metrics.lecoq.io/avn-eesh-01?template=terminal&projects=1&sponsorships=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&projects=false&projects.limit=4&projects.descriptions=true&config.timezone=Asia%2FColombo"/>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=avn-eesh-01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avn-eesh-01&theme=dracula&hide_border=false" alt="GitHub Streak">
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avn-eesh-01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
+
+<h3 align="center">Profile Views:</h3>
+
+<p align="center">
+    <a href="https://visitcount.itsvg.in/api?id=avn-eesh-01&label=Profile%20Views&color=6&icon=1&pretty=true">
+        <img src="https://visitcount.itsvg.in/api?id=avn-eesh-01&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
+    </a>
+</p>
