@@ -24,7 +24,7 @@
 ## 🔗 Connect With Me  
 <p align="center">
   <a href="https://avnice-portfolio.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=netlify">
 </a>&nbsp;
   <a href="https://twitter.com/avneesh07_"><img src="https://skillicons.dev/icons?i=twitter"></a>&nbsp;
   <a href="mailto:kumar18avneesh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;
