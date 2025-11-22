@@ -1,53 +1,86 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
-</div>
-<h1 align="center"> Welcome👋</h1>
-<div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lato&size=25&pause=1000&color=87F738&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Web+Developer;I+am+a+Project+Manager;I+am+an+Open+Source+Enthusiast;I+am+a+Project+Manager;" alt="Typing SVG" /></a>
-</div>
-
-About me: 
-- 👋 Hi, I’m @avn-eesh-01
-- 👀 I am interested in Android Development.
-- 🌱 Currently learning Kotlin and its application in android development.
-- 🌱 Pursuing BCA.
-
-<h1>Connect with me</h1>
-<p>
-  <a href="https://twitter.com/avneesh07_"><img src="https://skillicons.dev/icons?i=twitter"></a>&nbsp;&nbsp;
-  <a href="mailto:kumar18avneesh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;&nbsp;
-  <a href="https://dev.to/avneesh01"><img src="https://skillicons.dev/icons?i=devto"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/avnice/"><img src="https://skillicons.dev/icons?i=linkedin">
-</p>
-<!---
-avn-eesh-01/avn-eesh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1>Tech Stack</h1>
+<!-- Header Banner -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=fadeIn" />
+</p>
+
+<h1 align="center">Hi, I'm Avneesh 👋</h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=25&pause=1200&color=90FF40&center=true&vCenter=true&width=550&lines=Web+Developer;Android+Development+Enthusiast;Open+Source+Contributor;Tech+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+## 🌿 About Me
+- 🔥 Final-year BCA student.
+- 🌱 Currently learning Android & Kotlin.
+- 💻 Building projects using MERN, PHP, Flutter & Kotlin.
+- 🚀 Passionate about UI/UX, branding & open-source.
+
+---
+
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://twitter.com/avneesh07_"><img src="https://skillicons.dev/icons?i=twitter"></a>&nbsp;
+  <a href="mailto:kumar18avneesh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;
+  <a href="https://dev.to/avneesh01"><img src="https://skillicons.dev/icons?i=devto"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/avnice/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+
+  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  
+
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
+  <!-- Other -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
-<h1>My Github stats</h1>
+---
 
+## 🛠 Tools I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,androidstudio" />
+</p>
 
+---
 
-<div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=avn-eesh-01&theme=tokyonight&token=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&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    </div>
-    <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=avn-eesh-01&token=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&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-    </div>
-</div>
+## 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/avn-eesh-01/portfolio-builder">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=avn-eesh-01&repo=portfolio-builder&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/avn-eesh-01/expense-tracker">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=avn-eesh-01&repo=expense-tracker&theme=tokyonight" />
+  </a>
+</p>
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=avn-eesh-01&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=avn-eesh-01&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120" />
+</p>
