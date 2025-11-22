@@ -33,7 +33,7 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,python,mysql,nodejs,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,python,mysql,nodejs,mongodb&perline=10" />
 </p>
 
 
