@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=25&pause=1000&color=90FF40&center=true&vCenter=true&width=550&lines=I+am+a+Web+Developer;I+am+a+Project+Manager;I+am+an+Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=400&size=25&pause=1000&color=90FF40&center=true&vCenter=true&width=550&lines=I+am+a+Web+Developer;I+am+a+Project+Manager;I+am+an+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,9 +23,7 @@
 
 ## 🔗 Connect With Me  
 <p align="center">
-  <a href="https://avnice-portfolio.netlify.app">
-  <img src="https://skillicons.dev/icons?i=netlify">
-</a>&nbsp;
+  <a href="https://avnice-portfolio.netlify.app"><img src="https://skillicons.dev/icons?i=netlify"></a>&nbsp;
   <a href="https://twitter.com/avneesh07_"><img src="https://skillicons.dev/icons?i=twitter"></a>&nbsp;
   <a href="mailto:kumar18avneesh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;
   <a href="https://dev.to/avneesh01"><img src="https://skillicons.dev/icons?i=devto"></a>&nbsp;
